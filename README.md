@@ -2,8 +2,8 @@
 
 ## Setup Environment - Anaconda
 ```
-conda create --name main_data python=3.9
-conda activate main_data
+conda create --na  me env python=3.9
+conda activate env
 pip install -r requirements.txt
 ```
 
