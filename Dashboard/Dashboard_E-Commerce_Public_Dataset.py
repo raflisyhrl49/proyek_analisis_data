@@ -3,6 +3,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import numpy as np
 
 # Import Dataset
 df_olist = pd.read_csv(r"C:\Users\muham\PycharmProjects\pythonProject\Bangkit\Analisis Data dengan Python\Dashboard\main_data.csv")
